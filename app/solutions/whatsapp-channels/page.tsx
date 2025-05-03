@@ -16,8 +16,14 @@ export default function WhatsAppChannels() {
                 Launch AI-powered WhatsApp channels for broadcasts and chatbots to engage with your audience.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
-                <Button asChild size="lg" className="bg-purple-600 hover:bg-purple-700">
-                  <Link href="/early-access">Get Early Access</Link>
+                <Button
+                  asChild
+                  size="lg"
+                  className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-500 hover:to-blue-500 transition-all duration-300 shadow-[0_0_15px_rgba(139,92,246,0.3)] hover:shadow-[0_0_20px_rgba(139,92,246,0.5)]"
+                >
+                  <Link href="https://automapi.com/login" target="_blank" rel="noopener noreferrer">
+                    Get Early Access
+                  </Link>
                 </Button>
               </div>
             </div>
@@ -87,8 +93,14 @@ export default function WhatsAppChannels() {
               customers.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <Button asChild size="lg" className="bg-purple-600 hover:bg-purple-700">
-                <Link href="/early-access">Get Early Access</Link>
+              <Button
+                asChild
+                size="lg"
+                className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-500 hover:to-blue-500 transition-all duration-300 shadow-[0_0_15px_rgba(139,92,246,0.3)] hover:shadow-[0_0_20px_rgba(139,92,246,0.5)]"
+              >
+                <Link href="https://automapi.com/login" target="_blank" rel="noopener noreferrer">
+                  Get Early Access
+                </Link>
               </Button>
             </div>
           </div>
